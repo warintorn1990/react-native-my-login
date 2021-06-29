@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_camera_upload_image_camera_upload_imageTests : NSObject
+@end
+@implementation PodsDummy_Pods_camera_upload_image_camera_upload_imageTests
+@end
